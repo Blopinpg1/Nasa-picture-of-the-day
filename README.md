@@ -23,11 +23,9 @@ This React web app displays NASA's Astronomy Picture of the Day using the offici
 
 ---
 
-## 🖼 Demo
 
-nasapictureofthedayusingnasaapi.netlify.app
 
-🌍 **Live Demo**: _Coming soon or link here_
+🌍 **Live Demo**: https://nasapictureofthedayusingnasaapi.netlify.app/
 
 ---
 
