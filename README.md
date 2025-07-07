@@ -3,9 +3,7 @@
 
 This React web app displays NASA's Astronomy Picture of the Day using the official NASA API. It features high-quality images (or videos), titles, descriptions, and dates — updated daily.
 
-![NASA Banner](https://apod.nasa.gov/apod/image/2307/NGC6914_HubblePohl_960.jpg)
 
----
 
 ## 🚀 Features
 
@@ -27,7 +25,7 @@ This React web app displays NASA's Astronomy Picture of the Day using the offici
 
 ## 🖼 Demo
 
-> Add a link to your deployed app here if available.
+nasapictureofthedayusingnasaapi.netlify.app
 
 🌍 **Live Demo**: _Coming soon or link here_
 
